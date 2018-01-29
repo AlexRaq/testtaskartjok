@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b187cefe-04d5-46cb-a2c5-5cd348adc210" name="Default" comment="" />
+    <list default="true" id="b187cefe-04d5-46cb-a2c5-5cd348adc210" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/testtaskartjokreact.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -150,12 +155,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1517233253650</updated>
-      <workItem from="1517233254848" duration="1178000" />
+      <workItem from="1517233254848" duration="1311000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1178000" />
+    <option name="totallyTimeSpent" value="1311000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1019" y="6" width="905" height="1047" extended-state="0" />
